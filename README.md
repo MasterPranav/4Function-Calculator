@@ -1,1 +1,1 @@
-# I built a four function calculator
+# I built a small four function calculator to learn PHP, JavaScript, and CSS.  It's a little buggy, but it was a good learning process before my internship at Versium.  
